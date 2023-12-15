@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+  background: #1c006f;
+  color: white;
+  font-family: Consolas;
+}
+p{
+  font-size: 32px;
+}
+a:link{
+  color: #fff;
+}
+a:hover{
+  color: #ccf;
+}
+a:visited{
+  color: #99f;
+}
+a:active{
+  color: #888;
+}
+a,p{
+  text-shadow: 2px 2px 2px #44f;
+}
